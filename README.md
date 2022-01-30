@@ -1,7 +1,7 @@
 # Primeiro Projeto Take Blip Web Developer
-Organização de estudo para Bootcamp Take Blip Web Developer
+#### Organização de estudo para Bootcamp Take Blip Web Developer
 
-# O prazo final do bootcamp até 20/03/2022.
+#### O prazo final do bootcamp até 20/03/2022.
 
 ## Mentorias
 
